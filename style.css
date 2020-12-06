@@ -1,0 +1,85 @@
+header {
+  border-bottom:4px solid black
+}
+
+div.footer {
+  padding-top: 1px;
+  border-top: 4px solid black;
+  font-size: 15px;
+  color:grey;
+  text-align:center;
+	    
+}
+
+/* Reference 1: https://www.cs.princeton.edu/~zkincaid/ */
+h1 {
+  font-size: 26px;
+  font-weight: bold;
+  /*color: #2980B9;*/
+  color: black;
+  font-family: 'Fira Sans',sans-serif;
+  padding-top: 2px;
+}
+
+h1.title {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  font-family: 'Fira Sans',sans-serif;
+  padding-top: 3px;
+  padding-bottom: 0.2em;
+  text-align: center;
+}
+
+body {
+  background: #D3D3D3;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+div.main {
+  width: 800px;
+  align: center;
+  margin: 30px auto;
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+
+a:link {
+  color: #FF6300;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #FF9900;
+  font-weight: bold;
+}
+
+/* Reference 1 end */
+
+
+/* Reference 2: https://stackoverflow.com/questions/27300329/table-with-borders-in-html-and-latex-output-from-markdown-source-with-pandoc/27327724 */
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-spacing: 0;
+    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+}
+table th {
+    padding: 3px 10px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+}
+
+table td {
+    padding: 3px 10px;
+    border-top: none;
+    border-left: none;
+    border-bottom: 1px solid black;
+    border-right: none;
+}
+
