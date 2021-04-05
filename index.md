@@ -20,6 +20,7 @@ At present, I am working on solving constrained Horn clauses - an intermediate r
 
 ||||
 |:---|:----------|--------|
+| PLDI 2021 | Specification Synthesis with Constrained Horn Clauses | Sumanth Prabhu, Grigory Fedyukovich, Kumar Madhukar, Deepak D'Souza|
 | ICSE (NIER) 2020 | Using hypersafety verification for proving correctness of programming assignments | Jude K. Anil, Sumanth Prabhu, Kumar Madhukar, R. Venkatesh|
 | CAV 2019 | Quantified Invariants via Syntax-Guided Synthesis | Grigory Fedyukovich, Sumanth Prabhu, Kumar Madhukar, Aarti Gupta|
 | FMCAD 2018 | Solving Constrained Horn Clauses Using Syntax and Data | Grigory Fedyukovich, Sumanth Prabhu, Kumar Madhukar, Aarti Gupta|
