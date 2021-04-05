@@ -31,6 +31,8 @@ At present, I am working on solving constrained Horn clauses - an intermediate r
 [dblp]: https://dblp.uni-trier.de/pid/206/6798.html
 
 # Activities
+* PC of PLDI AEC 2021
+* Talk at FMCAD Student Forum 2020 
 * Talk at Workshop on Research Highlights in Programming Languages (FSTTCS 2020 co-located event)
 * Subreviewer ISEC 2019
 * Talk at IISc-IIITB SE Workshop 2019
